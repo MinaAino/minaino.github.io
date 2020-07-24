@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,700');
+
+html, body {
+  height: 100%;
+  width: 100%;
+  font-family: 'Poppins', san-serif;
+  color: #222;
+}
+.navbar {
+	background-color: teal !important;
+}
+.navbar .navbar-brand {
+	color: #FFFF;
+}
+.nav-item {
+	color: #FFFF !important;
+}
+.btn-outline-secondary-btn-lg {
+	margin-top: 2em;
+	padding: 1rem;
+	background-color: teal;
+	color: white;
+}
+.btn-outline-secondary-btn-lg:hover {
+	background-color: grey;
+}
+.btn-primary {
+	background-color: teal;
+ 	border: 1px solid teal;
+}
+.btn-outline-secondary {
+	margin-bottom: 3rem;
+ 	border: 1px solid teal;
+}
+.img1 {
+	text-align: center;
+}
+a {
+	text-decoration: none;
+	color: teal;
+}
+a:hover {
+	text-decoration: none;
+}
+.img-fluid {
+	margin-top: 3em;
+	margin-bottom: 3em;
+}
+.social {
+  font-size: 5em;
+}
+span {
+	margin: 2rem;
+	margin-bottom: 5rem;
+}
+footer {
+	background-color: teal;
+	color: white;
+	padding-top: 2rem;
+	width: 100%;
+}
